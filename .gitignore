@@ -1,2 +1,6 @@
-ml\ project\ dataset/ 
-*.csv 
+datasets/aisles.csv
+datasets/departments.csv
+datasets/order_products__prior.csv
+datasets/order_products__train.csv
+datasets/orders.csv
+datasets/products.csv
